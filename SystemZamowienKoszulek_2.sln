@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemZamowienKoszulek_2", "SystemZamowienKoszulek_2\SystemZamowienKoszulek_2.csproj", "{40DCF592-5037-471C-8C34-112F63D9F835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A8EC7D3E-0437-4937-ABF7-D0657CC112EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40DCF592-5037-471C-8C34-112F63D9F835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40DCF592-5037-471C-8C34-112F63D9F835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40DCF592-5037-471C-8C34-112F63D9F835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EC7D3E-0437-4937-ABF7-D0657CC112EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EC7D3E-0437-4937-ABF7-D0657CC112EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EC7D3E-0437-4937-ABF7-D0657CC112EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EC7D3E-0437-4937-ABF7-D0657CC112EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
